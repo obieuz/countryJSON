@@ -1,3 +1,5 @@
+{
+  "info":
 [
     {"name": "Afghanistan", "capital": "Kabul"},
     {"name": "Albania", "capital": "Tirana"},
@@ -194,4 +196,4 @@
     {"name": "Zambia", "capital": "Lusaka"},
     {"name": "Zimbabwe", "capital": "Harare"}
   ]
-  
+}
